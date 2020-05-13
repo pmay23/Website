@@ -1,0 +1,8 @@
+]0;/stor/home/pa7846/Website]0;pa7846@educcomp03: ~/Website[01;32mpa7846@educcomp03[00m:[01;34m~/Website[00m$ [K]0;pa7846@educcomp03: ~/Website[01;32mpa7846@educcomp03[00m:[01;34m~/Website[00m$ 
+]0;/stor/home/pa7846/Website]0;pa7846@educcomp03: ~/Website[01;32mpa7846@educcomp03[00m:[01;34m~/Website[00m$ cd![K[K[K~ c[K[K[Kcd ~/Desktop/[K[K[K[K[K[K[K[K[K/stor/home/pa785[K46/ Website
+bash: cd: /stor/home/pa7846/stor/home/pa7846/Website: No such file or directory
+]0;/stor/home/pa7846/Website]0;pa7846@educcomp03: ~/Website[01;32mpa7846@educcomp03[00m:[01;34m~/Website[00m$ s[Kcd ~/[K[K[K[K[K/stor/home/pa7846/Websiite"[K
+bash: /stor/home/pa7846/Website: Is a directory
+]0;/stor/home/pa7846/Website]0;pa7846@educcomp03: ~/Website[01;32mpa7846@educcomp03[00m:[01;34m~/Website[00m$ git init
+Initialized empty Git repository in /stor/home/pa7846/Website/.git/
+]0;/stor/home/pa7846/Website]0;pa7846@educcomp03: ~/Website[01;32mpa7846@educcomp03[00m:[01;34m~/Website[00m$ git add .
